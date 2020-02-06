@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiceDownloadImage</string>
+    <string name="download_image">Download Image</string>
+    <string name="download_song">Download Song</string>
+</resources>
